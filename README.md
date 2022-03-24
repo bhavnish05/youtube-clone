@@ -37,5 +37,5 @@ npm start
 
 ## Authors
 
-* **Ahmad Zaky** 
+* **Bhavnish Kumar** 
 reference from the video [Clever Programmer](https://youtu.be/NT299zIk2JY)
